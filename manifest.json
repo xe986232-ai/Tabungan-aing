@@ -1,0 +1,17 @@
+{
+  "name": "NoxSave - Telur Gulung",
+  "short_name": "NoxSave",
+  "description": "Modern Savings Tracker by NoxPay",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F0F2F5",
+  "theme_color": "#FFD600",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2489/2489756.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
